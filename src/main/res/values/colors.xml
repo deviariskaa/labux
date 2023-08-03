@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgPrimary">#203339</color>
+    <color name="textPrimary">#B3BCB6</color>
+    <color name="yellow">#70CBA360</color>
+    <color name="disabled">#0DFFFFFF</color>
+    <color name="yellowpure">#CBA360</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#203339</color>
+    <color name="secondaryColor">#CBA360</color>
+    <color name="textColor">#B3BCB6</color>
+    <color name="frameColor">#022029</color>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/homeMenu"
+        android:title="Home"
+        app:showAsAction="always"
+        android:icon="@drawable/baseline_dehaze_24"/>
+<!--    <item-->
+<!--        android:id="@+id/home2Menu"-->
+<!--        android:icon="@drawable/baseline_dehaze_24"-->
+<!--        android:title="Home"-->
+<!--        app:showAsAction="never"/>-->
+    <item
+        android:id="@+id/ticketMenu"
+        android:title="View Tickets"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/aboutMenu"
+        android:title="About Us"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/logoutMenu"
+        android:title="Log Out"
+        app:showAsAction="never"/>
+<!--    <item-->
+<!--        android:id="@+id/Coba2Menu"-->
+<!--        android:title="Coba2"-->
+<!--        app:showAsAction="never"/>-->
+
+</menu>
